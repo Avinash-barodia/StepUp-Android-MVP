@@ -14,6 +14,11 @@
         "android.permission.FOREGROUND_SERVICE_HEALTH"
       ],
       "versionCode": 2
+    },
+    "extra": {
+      "eas": {
+        "projectId": "272720e2-49a2-40ce-bb55-cd47bdcb9ba9"
+      }
     }
   }
 }
