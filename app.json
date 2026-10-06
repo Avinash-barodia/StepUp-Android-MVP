@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "StepUp",
+    "slug": "stepup",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.stepup.walktracker",
+      "permissions": [
+        "android.permission.ACTIVITY_RECOGNITION",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_HEALTH"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "272720e2-49a2-40ce-bb55-cd47bdcb9ba9"
+      }
+    }
+  }
+}
