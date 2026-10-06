@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "StepUp",
+    "slug": "stepup",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.stepup.walktracker",
+      "permissions": [
+        "android.permission.ACTIVITY_RECOGNITION",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_HEALTH"
+      ],
+      "versionCode": 2
+    }
+  }
+}
