@@ -103,3 +103,5 @@ No application analytics or server upload is implemented. The development build 
 ## V2 checks
 
 `node --test tests/metrics.test.mjs` (Node 22.18+ or Node 24) checks actual TypeScript display calculations. `python3 tests/session_sql_test.py` exercises SQLite statements extracted from the native implementation, including paused durations, interrupted recovery and preserving daily totals. These checks do not execute Android lifecycle code.
+#   S t e p U p - A n d r o i d - M V P  
+ 
